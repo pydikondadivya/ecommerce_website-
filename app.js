@@ -9,11 +9,11 @@ const products = [
     colors: [
       {
         code: "black",
-        img: "C:/Users/LILLY KUMARI/Downloads/air.png",
+        img: "https://i.ibb.co/4KyYJDR/air.png",
       },
       {
         code: "darkblue",
-        img: "c:/Users/LILLY KUMARI/Downloadsair2.png",
+        img: "https://i.ibb.co/SKx49yG/air2.png",
       },
     ],
   },
@@ -24,11 +24,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "C:/Users/LILLY KUMARI/Downloads/jordan.png",
+        img: "https://i.ibb.co/Qn422ss/jordan.png",
       },
       {
         code: "green",
-        img: "c:/Users/LILLY KUMARI/Downloads/jordan2.png",
+        img: "https://i.ibb.co/2ZZhf02/jordan2.png",
       },
     ],
   },
@@ -39,11 +39,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "c:/Users/LILLY KUMARI/Downloads/blazer.png",
+        img: "https://i.ibb.co/M6xvGWk/blazer.png",
       },
       {
         code: "green",
-        img: "c:/Users/LILLY KUMARI/Downloads/blazer2.png",
+        img: "https://i.ibb.co/2v1pkXy/blazer2.png",
       },
     ],
   },
@@ -54,11 +54,11 @@ const products = [
     colors: [
       {
         code: "black",
-        img: "c:/Users/LILLY KUMARI/Downloads/crater.png",
+        img: "https://i.ibb.co/Wg4NSC5/crater.png",
       },
       {
         code: "lightgray",
-        img: "c:/Users/LILLY KUMARI/Downloads/crater2.png",
+        img: "https://i.ibb.co/NCy6rgN/crater2.png",
       },
     ],
   },
@@ -69,11 +69,11 @@ const products = [
     colors: [
       {
         code: "gray",
-        img: "c:/Users/LILLY KUMARI/Downloads/hippie.png",
+        img: "https://i.ibb.co/ZSZBhmg/hippie.png",
       },
       {
         code: "black",
-        img: "c:/Users/LILLY KUMARI/Downloads/hippie2.png",
+        img: "https://i.ibb.co/yppb7N5/hippie2.png",
       },
     ],
   },
